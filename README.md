@@ -10,3 +10,5 @@
 * apiRead.getProductByID("YOUR-API-KEY");
 * apiRead.getProductByCategoryID("YOUR-API-KEY");
 * ⚠️ ВНИМАНИЕ !! ЗА ДА РАБОТИ ПРАВИЛНО ВИ ТРЯБВА CLASS 'Errors'
+
+*⭐ https://w-store.org ⭐️
